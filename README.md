@@ -1,3 +1,4 @@
+
 # ASCII Art Video & Image in Python
 This repository contains a Python project I made for fun. I convert images and videos into ASCII art, testing different methods like gamma, edge enhancement, and colorization to compare results.
 
@@ -50,8 +51,8 @@ Plays an MP4 video in the terminal as live ASCII frames synced with audio.
 
 - Video file: `fish.mp4` 
 - Output: `fish_ascii.mp4` (or live playback in terminal):
-https://github.com/user-attachments/assets/3fba5785-5750-4d85-bda9-069d3c732371
 
+https://github.com/user-attachments/assets/2eceb43e-1b58-4cbf-9fce-cd28a36f6400
 
 ---
 

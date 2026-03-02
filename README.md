@@ -50,7 +50,8 @@ Plays an MP4 video in the terminal as live ASCII frames synced with audio.
 
 - Video file: `fish.mp4` 
 - Output: `fish_ascii.mp4` (or live playback in terminal):
-![Video](https://github.com/Akieldamas/ASCII-Art/blob/main/images_results/fish_ascii.mp4)
+https://github.com/user-attachments/assets/3fba5785-5750-4d85-bda9-069d3c732371
+
 
 ---
 
